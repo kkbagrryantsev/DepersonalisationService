@@ -5,6 +5,22 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
 ### STS ###
 .apt_generated
 .classpath
